@@ -13,3 +13,12 @@ config_version=5
 config/name="auto_shooter"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=1920
+window/size/viewport_height=1080
+window/size/mode=3
+window/size/resizable=false
+window/size/borderless=true
+window/vsync/vsync_mode=0
